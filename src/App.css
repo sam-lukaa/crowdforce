@@ -1,9 +1,12 @@
 body {
   font-family: "Raleway", sans-serif;
   /* font-family: "Reenie Beanie", cursive; */
-  margin: 69px 122px;
   color: #353e44;
   font-size: 18px;
+}
+
+.container {
+  margin: 0 122px;
 }
 
 h3 {
@@ -29,4 +32,10 @@ button {
   font-size: 18px;
   line-height: 28px;
   color: #75bd38;
+}
+
+.white_btn {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 28px;
 }

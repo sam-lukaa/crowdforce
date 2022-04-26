@@ -1,0 +1,14 @@
+.card2 {
+  display: flex;
+  gap: 42px;
+  /* color: #fff; */
+  margin-bottom: 202px;
+}
+
+.card2_card {
+  padding: 43px;
+}
+
+.card2_card img {
+  width: 100%;
+}

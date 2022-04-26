@@ -1,4 +1,10 @@
-import { Hero, Card1, Card2, Card3 } from "../components/business_solutions";
+import {
+  Hero,
+  Card1,
+  Card2,
+  Card3,
+  Slider,
+} from "../components/business_solutions";
 
 export default function Index() {
   return (
@@ -7,6 +13,7 @@ export default function Index() {
       <Card1 />
       <Card2 />
       <Card3 />
+      <Slider />
     </div>
   );
 }

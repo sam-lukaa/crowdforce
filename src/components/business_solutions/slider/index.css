@@ -1,0 +1,19 @@
+.slider {
+  background-image: url("../../../library/section3.png");
+  background-repeat: no-repeat;
+  background-size: 911px 725px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 95px;
+}
+
+.slider_img {
+}
+
+.slider_card {
+  background: #2293df;
+  color: #fff;
+  width: 35%;
+  padding: 49px 54px;
+  left: -20%;
+}
