@@ -1,0 +1,21 @@
+.hero_section {
+  text-align: center;
+}
+
+.hero_header {
+  font-weight: 800;
+  font-size: 46px;
+  font-style: normal;
+  line-height: 114.9%;
+  width: 847px;
+  margin: auto;
+  margin-top: 107px;
+  color: #353E44;
+}
+
+.hero_para {
+  width: 657px;
+  margin: 37px auto 74px;
+  line-height: 34px;
+  font-size: 18px;
+}

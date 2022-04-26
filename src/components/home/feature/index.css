@@ -1,0 +1,98 @@
+.feature {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 44px;
+}
+
+.feature_main {
+  background-image: url("../../../library/payment_bg.png");
+  background-position: 50% 10%;
+  margin-bottom: -12rem;
+}
+
+.feature_btn {
+  margin-top: 37px;
+  margin-bottom: 73px;
+  color: #fff;
+  background: #2293df;
+  border: none;
+  border-radius: 10px;
+  padding: 14px 62px;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.feature_img_box {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.feature_img {
+  width: 125px;
+  height: 282px;
+  margin-right: 120px;
+  z-index: 1;
+  border: 1px solid #000;
+  border-top: 4px solid #000;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.feature_shape {
+  background-image: url("../../../library/feature_shape.png");
+  background-size: cover;
+  background-position: 50% 50%;
+  padding: 2rem 0;
+}
+
+.feature_texts {
+  text-align: left;
+  padding-top: 31px;
+  padding-left: 50px;
+  width: 298px;
+}
+
+.featured_text {
+  text-align: center;
+  font-family: "Reenie Beanie";
+  opacity: 0.2;
+}
+
+.featured_sub_texts p {
+  font-family: "Reenie Beanie";
+  line-height: 1px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.feature_star {
+  width: 16px;
+  height: 16px;
+  margin-right: 10px;
+}
+
+.wallet_texts {
+  width: 865px;
+  margin: auto;
+  text-align: center;
+  line-height: 34.06px;
+}
+
+.wallet_texts h3 {
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.wallet_text {
+  font-size: 18px;
+  line-height: 34px;
+}

@@ -1,0 +1,19 @@
+.hero_top {
+  width: 58%;
+  margin: auto;
+  text-align: center;
+}
+
+.hero_img {
+  background-image: url("../../../library/pay2.png");
+  background-position: center;
+  background-size: cover;
+  padding: 250px;
+  margin-top: -10px;
+}
+
+.top_btn {
+  color: #75bd38;
+  font-weight: 700;
+  font-size: 18px;
+}

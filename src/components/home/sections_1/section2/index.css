@@ -1,0 +1,43 @@
+.section2 {
+  margin-bottom: 138px;
+}
+
+.section2_header {
+  margin-bottom: 28px;
+  text-align: center;
+}
+
+.section2_header p {
+  width: 40%;
+  margin: auto;
+}
+
+.section2_main {
+  display: flex;
+  /* flex-direction */
+}
+
+.section2_left img {
+  width: 567px;
+  height: 503px;
+  margin-right: 62px;
+}
+
+.section2_right {
+  background: #2293df;
+  color: #fff;
+  line-height: 12px;
+  padding: 40px 83px 73px 51px;
+}
+
+.section2_right button {
+  border: none;
+  background: none;
+  color: #fff;
+  font-weight: 700;
+}
+
+.section2_sub1 {
+  margin-bottom: 68px;
+  line-height: 12px;
+}

@@ -1,0 +1,51 @@
+.footer_top {
+  text-align: center;
+  /* width: 45%; */
+  margin: auto;
+  margin-bottom: 97px;
+}
+
+.footer_top h2 {
+  line-height: 3px;
+  font-size: 64px;
+}
+
+.footer_top input {
+  width: 55%;
+  padding: 15px 5px;
+  text-align: center;
+  border: 1px solid rgb(160, 156, 156);
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+
+.footer_top_p {
+  font-weight: 700;
+}
+
+.footer_top button {
+  color: #fff;
+  background: #2293df;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 25px;
+}
+
+.footer p {
+  font-weight: 700;
+}
+
+.footer img {
+  margin-bottom: 58px;
+}
+
+.footer_bottom {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left_footer {
+  display: flex;
+  align-items: center;
+  gap: 60px;
+}

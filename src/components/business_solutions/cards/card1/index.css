@@ -1,0 +1,20 @@
+.card1 {
+  margin-top: 85px;
+  margin-bottom: 55px;
+}
+
+.card1 h3 {
+  text-align: center;
+}
+
+.card1_card {
+  display: flex;
+  align-items: center;
+  gap: 65px;
+}
+
+.card1_right_top h5 {
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 114.9%;
+}
